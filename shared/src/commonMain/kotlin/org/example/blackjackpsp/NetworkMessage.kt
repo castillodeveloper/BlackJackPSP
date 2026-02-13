@@ -74,4 +74,11 @@ sealed class NetworkMessage {
         val payout: Int,
         val message: String
     ) : NetworkMessage()
-    
+
+    // NUEVO: Respuesta del servidor con la lista de récords
+    @Serializable
+    @SerialName("records_list")
+    data class RecordsList(
+        val records: List<PlayerRecord>
+    ) : NetworkMessage()
+}
