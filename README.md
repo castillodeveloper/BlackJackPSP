@@ -16,7 +16,7 @@ Este repositorio contiene una implementación completa del clásico juego de cas
 
 En el siguiente vídeo se explica la arquitectura del código y se realiza una demostración práctica ejecutando el servidor y múltiples clientes simultáneamente, mostrando las mecánicas de juego y la persistencia de los récords en tiempo real.
 
-👉 **[EL ENLACE AL VÍDEO SE AÑADIRÁ AQUÍ PRÓXIMAMENTE]** 👈
+👉 https://youtu.be/pAWaj-nY0Fk👈
 
 ---
 
